@@ -1,0 +1,15 @@
+{
+  "name": "christmas-coding-challenge-2024",
+  "version": "1.0.0",
+  "description": "Welcome to my **Christmas Coding Challenge 2024** repo. This project is organized by the **[Women Coding Community](https://womencodingcommunity.com/)**. Through this challenge, I'm committing to solving one [LeetCode](https://leetcode.com/)  or [Northcoders](https://northcoders.com/) problem from the 1st to the 25th of December 2024.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
